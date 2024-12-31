@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "name": "Intel Core i7-12700K",
+    "price": 25000,
+    "category": "Intel",
+    "image": "images/nout_intel.webp",
+    "description": "Мощный процессор для игровых компьютеров."
+  },
+  {
+    "id": 2,
+    "name": "AMD Ryzen 7 5800X",
+    "price": 22000,
+    "category": "AMD_P",
+    "image": "images/amd_rizen.webp",
+    "description": "Эффективный процессор для многозадачности."
+  },
+  {
+    "id": 3,
+    "name": "NVIDIA RTX 3060",
+    "price": 40000,
+    "category": "NVIDIA",
+    "image": "images/1_478224.jpg",
+    "description": "Игровая видеокарта с поддержкой трассировки лучей."
+  },
+  {
+    "id": 4,
+    "name": "AMD Radeon RX 6700 XT",
+    "price": 38000,
+    "category": "AMD",
+    "image": "images/amd_radeon.jpg",
+    "description": "Видеокарта для геймеров."
+  },
+  {
+    "id": 5,
+    "name": "Оперативная память 16GB DDR4",
+    "price": 8000,
+    "category": "DDR4",
+    "image": "images/ozu_ddr4.jpg",
+    "description": "Быстрая оперативная память для работы и игр."
+  },
+  {
+    "id": 6,
+    "name": "Оперативная память 32GB DDR5",
+    "price": 15000,
+    "category": "DDR5",
+    "image": "images/32gb_ddr5.jpg",
+    "description": "Современная оперативная память для мощных систем."
+  },
+  {
+    "id": 7,
+    "name": "SSD накопитель 500GB",
+    "price": 6000,
+    "category": "SSD",
+    "image": "/images/ssd 500gb.jpg",
+    "description": "SSD накопитель для быстрой загрузки системы."
+  },
+  {
+    "id": 8,
+    "name": "HDD накопитель 2TB",
+    "price": 5000,
+    "category": "HDD",
+    "image": "/images/ssd_2tb.jpg",
+    "description": "Классический HDD для большого объема данных."
+  },
+  {
+    "id": 9,
+    "name": "Intel Core i5-12400",
+    "price": 18000,
+    "category": "Intel",
+    "image": "/images/i5.webp",
+    "description": "Экономичный процессор для офисных задач."
+  },
+  {
+    "id": 10,
+    "name": "AMD Ryzen 5 5600G",
+    "price": 15000,
+    "category": "AMD_P",
+    "image": "/images/razen5_5600.jpg",
+    "description": "Процессор с интегрированной графикой."
+  },
+  {
+    "id": 11,
+    "name": "NVIDIA RTX 3070",
+    "price": 50000,
+    "category": "NVIDIA",
+    "image": "https://via.placeholder.com/150",
+    "description": "Высокопроизводительная видеокарта."
+  },
+  {
+    "id": 12,
+    "name": "AMD Radeon RX 6800",
+    "price": 45000,
+    "category": "AMD",
+    "image": "https://via.placeholder.com/150",
+    "description": "Видеокарта для профессиональных задач."
+  },
+  {
+    "id": 13,
+    "name": "Оперативная память 8GB DDR4",
+    "price": 4000,
+    "category": "DDR4",
+    "image": "https://via.placeholder.com/150",
+    "description": "Оперативная память для базовых задач."
+  },
+  {
+    "id": 14,
+    "name": "Оперативная память 16GB DDR5",
+    "price": 10000,
+    "category": "DDR5",
+    "image": "https://via.placeholder.com/150",
+    "description": "Современная оперативная память для игр."
+  },
+  {
+    "id": 15,
+    "name": "SSD накопитель 1TB",
+    "price": 10000,
+    "category": "SSD",
+    "image": "https://via.placeholder.com/150",
+    "description": "SSD накопитель для хранения данных."
+  },
+  {
+    "id": 16,
+    "name": "HDD накопитель 4TB",
+    "price": 8000,
+    "category": "HDD",
+    "image": "https://via.placeholder.com/150",
+    "description": "HDD для архивирования данных."
+  },
+  {
+    "id": 17,
+    "name": "Intel Core i9-12900K",
+    "price": 40000,
+    "category": "Intel",
+    "image": "https://via.placeholder.com/150",
+    "description": "Процессор для энтузиастов."
+  },
+  {
+    "id": 18,
+    "name": "AMD Ryzen 9 5900X",
+    "price": 35000,
+    "category": "AMD_P",
+    "image": "https://via.placeholder.com/150",
+    "description": "Высокопроизводительный процессор."
+  },
+  {
+    "id": 19,
+    "name": "NVIDIA RTX 3080",
+    "price": 60000,
+    "category": "NVIDIA",
+    "image": "https://via.placeholder.com/150",
+    "description": "Видеокарта для профессиональных игр."
+  },
+  {
+    "id": 20,
+    "name": "AMD Radeon RX 6900 XT",
+    "price": 55000,
+    "category": "AMD",
+    "image": "https://via.placeholder.com/150",
+    "description": "Видеокарта для энтузиастов."
+  },
+  {
+    "id": 21,
+    "name": "Оперативная память 64GB DDR4",
+    "price": 25000,
+    "category": "DDR4",
+    "image": "https://via.placeholder.com/150",
+    "description": "Оперативная память для серверов."
+  },
+  {
+    "id": 22,
+    "name": "Оперативная память 128GB DDR5",
+    "price": 50000,
+    "category": "DDR5",
+    "image": "https://via.placeholder.com/150",
+    "description": "Оперативная память для высокопроизводительных систем."
+  },
+  {
+    "id": 23,
+    "name": "SSD накопитель 2TB",
+    "price": 18000,
+    "category": "SSD",
+    "image": "https://via.placeholder.com/150",
+    "description": "SSD накопитель для хранения данных."
+  },
+  {
+    "id": 24,
+    "name": "HDD накопитель 8TB",
+    "price": 15000,
+    "category": "HDD",
+    "image": "https://via.placeholder.com/150",
+    "description": "HDD для архивирования данных."
+  },
+  {
+    "id": 25,
+    "name": "Intel Core i3-12100",
+    "price": 10000,
+    "category": "Intel",
+    "image": "https://via.placeholder.com/150",
+    "description": "Процессор для базовых задач."
+  },
+  {
+    "id": 26,
+    "name": "AMD Ryzen 3 5300G",
+    "price": 8000,
+    "category": "AMD_P",
+    "image": "https://via.placeholder.com/150",
+    "description": "Процессор для офисных задач."
+  },
+  {
+    "id": 27,
+    "name": "NVIDIA RTX 3050",
+    "price": 30000,
+    "category": "NVIDIA",
+    "image": "https://via.placeholder.com/150",
+    "description": "Видеокарта для базовых игр."
+  },
+  {
+    "id": 28,
+    "name": "AMD Radeon RX 6600",
+    "price": 28000,
+    "category": "AMD",
+    "image": "https://via.placeholder.com/150",
+    "description": "Видеокарта для базовых задач."
+  },
+  {
+    "id": 29,
+    "name": "Оперативная память 4GB DDR4",
+    "price": 2000,
+    "category": "DDR4",
+    "image": "https://via.placeholder.com/150",
+    "description": "Оперативная память для старых систем."
+  },
+  {
+    "id": 30,
+    "name": "Оперативная память 8GB DDR5",
+    "price": 6000,
+    "category": "DDR5",
+    "image": "https://via.placeholder.com/150",
+    "description": "Оперативная память для современных систем."
+  },
+  {
+    "id": 31,
+    "name": "Intel Core i5-12700K",
+    "price": 28000,
+    "category": "Intel",
+    "image": "https://via.placeholder.com/150",
+    "description": "Мощный процессор для игровых компьютеров."
+   }
+]
