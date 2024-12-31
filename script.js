@@ -256,7 +256,7 @@ function updateMenu(category) {
   let count = 0;
   elements.forEach(element => {
     const filtr = products.filter(product => product.category === element.dataset.category);
-    element.innerHTML += ` &nbsp;&nbsp;<span style="color:rgb(14, 13, 14)">;${filtr.length}</span>`
+    element.innerHTML += ` &nbsp;&nbsp;<span style="color:rgb(14, 13, 14)">${filtr.length}</span>`
   }
   )
 };
