@@ -52,7 +52,7 @@
     "name": "SSD накопитель 500GB",
     "price": 6000,
     "category": "SSD",
-    "image": "/images/ssd 500gb.jpg",
+    "image": "images/ssd 500gb.jpg",
     "description": "SSD накопитель для быстрой загрузки системы."
   },
   {
@@ -60,7 +60,7 @@
     "name": "HDD накопитель 2TB",
     "price": 5000,
     "category": "HDD",
-    "image": "/images/ssd_2tb.jpg",
+    "image": "images/ssd_2tb.jpg",
     "description": "Классический HDD для большого объема данных."
   },
   {
@@ -68,7 +68,7 @@
     "name": "Intel Core i5-12400",
     "price": 18000,
     "category": "Intel",
-    "image": "/images/i5.webp",
+    "image": "images/i5.webp",
     "description": "Экономичный процессор для офисных задач."
   },
   {
@@ -76,7 +76,7 @@
     "name": "AMD Ryzen 5 5600G",
     "price": 15000,
     "category": "AMD_P",
-    "image": "/images/razen5_5600.jpg",
+    "image": "images/razen5_5600.jpg",
     "description": "Процессор с интегрированной графикой."
   },
   {
