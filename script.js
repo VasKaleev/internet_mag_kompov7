@@ -111,7 +111,9 @@ function openModal(product) {
     <p>${product.description}</p>
     <p>Цена: ${product.price} руб.</p>
     <p>Категория: ${product.category}</p>
+    <button class="add-to-cart" data-id="${product.id}">Добавить в корзину</button> 
   `;
+  modalDetails.querySelector('.add-to-cart').addEventListener('click', () => addToCart(product));
   modal.style.display = 'block';
 }
 
